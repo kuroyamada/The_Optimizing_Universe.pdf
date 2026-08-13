@@ -7,3 +7,4 @@ The cosmos is an eternal, self-learning state machine. And the code is running.
 SPI https://doi.org/10.5281/zenodo.20067835
 DUP https://doi.org/10.5281/zenodo.21525917
 GU https://doi.org/10.5281/zenodo.21526008
+GQM https://doi.org/10.5281/zenodo.21910735

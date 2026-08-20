@@ -16,7 +16,7 @@ The paper **"The Optimizing Universe"** is synthesized from the mathematical and
 2. **GU (The Geometric Universe / Slope Model)**
    * *Title:* The Geometric Universe: Gravity of An Informational Geometry
    * *Description:* Formulates gravity without $G$ or mass $M$, proving that gravitational acceleration and the "bending of light" are consequences of Fermat-type minimum network delay.
-   * *Link:* [https://doi.org/10.5281/zenodo.21526008]
+   * *Link:* [https://doi.org/10.5281/zenodo.22036533]
 
 3. **DUP (Dual Update Principle)**
    * *Title:* The Dual Update Principle: Dual Update Principle: The Universe Is an Evolving Informational Geometry

@@ -11,7 +11,7 @@ The paper **"The Optimizing Universe"** is synthesized from the mathematical and
 1. **GQM (Geometric Quantum Mechanics)**
    * *Title:* Geometric Quantum Mechanics: Unificationonthe InformationBundle
    * *Description:* Establishes the complex dual-bundle connection ($\pi: I \to M$) that unifies electromagnetism, microscopic quantum mechanics, and thermodynamics.
-   * *Link:* [https://doi.org/10.5281/zenodo.22036516]
+   * *Link:* [https://doi.org/10.5281/zenodo.22051335]
 
 2. **GU (The Geometric Universe / Slope Model)**
    * *Title:* The Geometric Universe: Gravity of An Informational Geometry
